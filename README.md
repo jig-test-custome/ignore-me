@@ -1,2 +1,3 @@
 # ignore-me
-Excluded repo - Jig must never reconcile this
+
+This repo is excluded from all Jig policies. No reconciliation should occur.
