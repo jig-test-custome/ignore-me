@@ -1,9 +1,3 @@
 # Security Policy
 
-If you discover a security vulnerability, please report it to us at security@enterprise.com.
-
-# JIG-START #
-# Security Policy
-
-If you discover a security vulnerability, please report it to us at security@enterprise.com.
-# JIG-END #
+If you discover a security vulnerability, please report it to us at security@jig-test-custome.com.
